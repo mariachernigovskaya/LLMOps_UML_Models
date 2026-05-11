@@ -9,4 +9,7 @@ The repository is organized into separate modules representing individual LLMOps
 ## Data Preparation and Management module
 This module contains the formalized representation of the Data Preparation and Management stage in LLMOps. It consists of one main model that provides a overview on the process and multiple sub-models to elaborate on more complex activities. The objective of this module is to consolidate fragmented representations of data workflows into a unified and standardized model.This module constitutes the first part of a broader effort aimed at formalizing all major stages of the LLMOps lifecycle.
 
+## Contact Information
+In case of questions or feedback, please contact maria.chernigovskaya@ovgu.de
+
 
